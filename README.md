@@ -48,7 +48,7 @@ Findings can be translated into structured developer or AI-agent handoffs, with 
 
 ---
 
-### Wedgeonic Dispatch
+### [Wedgeonic Dispatch](https://wedgeonic.com/)
 **Field-service routing & dispatch optimization**
 
 Routing and scheduling infrastructure for field-service teams, focused on reducing unnecessary travel and improving technician assignment.
